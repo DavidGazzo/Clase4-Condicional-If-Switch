@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase4-Condicional-If", "Clase4-Condicional-If.csproj", "{33A8E856-E834-4916-B92A-AF49EEDBCB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase4-CondicionalSwitch", "..\Clase4-CondicionalSwitch\Clase4-CondicionalSwitch.csproj", "{ABC36135-524C-499C-BC35-0743C3366D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A8E856-E834-4916-B92A-AF49EEDBCB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A8E856-E834-4916-B92A-AF49EEDBCB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A8E856-E834-4916-B92A-AF49EEDBCB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A8E856-E834-4916-B92A-AF49EEDBCB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC36135-524C-499C-BC35-0743C3366D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC36135-524C-499C-BC35-0743C3366D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC36135-524C-499C-BC35-0743C3366D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC36135-524C-499C-BC35-0743C3366D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C75A05-D938-4636-8D8B-2FB013A82C0C}
+	EndGlobalSection
+EndGlobal
